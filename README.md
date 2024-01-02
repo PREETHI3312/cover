@@ -42,7 +42,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![image](https://github.com/PREETHI3312/cover/assets/151625222/74305b19-4003-4925-88c9-f655dc8b1f91)
+![image](https://github.com/PREETHI3312/cover/assets/151625222/d110ea0e-a689-49a7-bae9-e1b0ee879743)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
