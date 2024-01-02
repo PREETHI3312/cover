@@ -31,10 +31,18 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+![image](https://github.com/PREETHI3312/cover/assets/151625222/e9c14026-1653-4cef-8c9c-8db36d01fe6b)
+![image](https://github.com/PREETHI3312/cover/assets/151625222/7ba04780-b9dc-4c89-b2d5-0a9ae065cbe4)
+![image](https://github.com/PREETHI3312/cover/assets/151625222/88c66e69-c1e9-499f-aaaf-c08623de76e6)
+![image](https://github.com/PREETHI3312/cover/assets/151625222/2b06b6fa-9d82-41ab-8eb6-40ad8412306b)
+![image](https://github.com/PREETHI3312/cover/assets/151625222/3db54105-2e1b-4bf6-aec8-ad47c78a3944)
+![image](https://github.com/PREETHI3312/cover/assets/151625222/d1128ddc-d93f-4b7f-af3f-a0733ff34bd6)
+
 
 
 ## OUTPUT:
 
+![image](https://github.com/PREETHI3312/cover/assets/151625222/74305b19-4003-4925-88c9-f655dc8b1f91)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
